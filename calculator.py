@@ -1,4 +1,4 @@
-"""Calculator module: basic arithmetic operations."""
+"""Calculator module: add, sub, mul, div operations."""
 
 
 def add(a, b):
