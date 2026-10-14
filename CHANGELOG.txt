@@ -1,0 +1,3 @@
+v1.0 - add, sub
+v1.1 - mul, div, power
+v1.2 - history module
