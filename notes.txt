@@ -1,0 +1,3 @@
+Project: training calculator
+Author: Abdullaev A.I.
+Version: 1.0
