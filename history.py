@@ -8,3 +8,7 @@ def save(record):
 def show():
     for item in history:
         print(item)
+
+
+def clear():
+    history.clear()
