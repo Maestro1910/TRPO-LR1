@@ -5,3 +5,4 @@ Operations: add, sub, mul
 Feature: squash demo, step 1
 Feature: squash demo, step 2
 Feature: squash demo, step 3
+Merge types: merge, squash, rebase
